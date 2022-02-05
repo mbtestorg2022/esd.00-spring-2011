@@ -6,17 +6,165 @@ title: 'Environmental Analysis of High-Speed Rail: Recitations'
 uid: f3b64afa-157e-c7ee-08ac-dce5d386b228
 ---
 
-| REC # | TOPICS | RECITATION NOTES |
-| --- | --- | --- |
-| R1 | Project motivation and background | &nbsp; |
-| R2 | The case of California and the Northeast Corridor | ([PDF]({{< baseurl >}}/resources/mitesd_00s11_rec02)) |
-| R3 | Full class recitation: Tutorial on Vensim | &nbsp; |
-| R4 | Demand forecasting and uncertainties | ([PDF]({{< baseurl >}}/resources/mitesd_00s11_rec04)) |
-| R5 | Full class recitation: Introduction to random variables, probability and statistics | &nbsp; |
-| R6 | Evaluating the environmental impacts of high-speed transportation | ([PDF]({{< baseurl >}}/resources/mitesd_00s11_rec06)) |
-| R7 | Lifecycle assessment of aviation and high-speed rail | ([PDF]({{< baseurl >}}/resources/mitesd_00s11_rec07)) |
-| R8 | Full class recitation (no individual recitations) | &nbsp; |
-| R9 | Input-output lifecycle assessment and stakeholders | ([PDF]({{< baseurl >}}/resources/mitesd_00s11_rec09)) |
-| R10 | Project feedback and discussion (cont.) | &nbsp; |
-| R11 | Lifecycle assessment | ([PDF]({{< baseurl >}}/resources/mitesd_00s11_rec11)) |
-| R12 | Uncertainty analysis and networks | ([PDF]({{< baseurl >}}/resources/mitesd_00s11_rec12))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+REC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+RECITATION NOTES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R1
+{{< tdclose >}}
+{{< tdopen >}}
+Project motivation and background
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R2
+{{< tdclose >}}
+{{< tdopen >}}
+The case of California and the Northeast Corridor
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mitesd_00s11_rec02))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R3
+{{< tdclose >}}
+{{< tdopen >}}
+Full class recitation: Tutorial on Vensim
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R4
+{{< tdclose >}}
+{{< tdopen >}}
+Demand forecasting and uncertainties
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mitesd_00s11_rec04))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R5
+{{< tdclose >}}
+{{< tdopen >}}
+Full class recitation: Introduction to random variables, probability and statistics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R6
+{{< tdclose >}}
+{{< tdopen >}}
+Evaluating the environmental impacts of high-speed transportation
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mitesd_00s11_rec06))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R7
+{{< tdclose >}}
+{{< tdopen >}}
+Lifecycle assessment of aviation and high-speed rail
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mitesd_00s11_rec07))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R8
+{{< tdclose >}}
+{{< tdopen >}}
+Full class recitation (no individual recitations)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R9
+{{< tdclose >}}
+{{< tdopen >}}
+Input-output lifecycle assessment and stakeholders
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mitesd_00s11_rec09))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R10
+{{< tdclose >}}
+{{< tdopen >}}
+Project feedback and discussion (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R11
+{{< tdclose >}}
+{{< tdopen >}}
+Lifecycle assessment
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mitesd_00s11_rec11))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R12
+{{< tdclose >}}
+{{< tdopen >}}
+Uncertainty analysis and networks
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mitesd_00s11_rec12))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
