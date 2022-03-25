@@ -39,7 +39,7 @@ SOLUTIONS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitesd_00s11_assn02))
+([PDF]({{< baseurl >}}/resources/mitesd_00s11_assn02))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/mitesd_00s11_soln02))
